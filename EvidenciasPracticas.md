@@ -126,4 +126,4 @@
 
 PRUEBA :
 
-![0101](\Evidencia\0101.PNG)
+![0101](Evidencia/0101.PNG)
