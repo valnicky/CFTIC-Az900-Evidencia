@@ -173,4 +173,4 @@
 #Pl-900
 
 ###How to create a canvas
-![m3-canvas](Evidencia/Pl-900PowerPlatformFund/m3-canvas.png)
+![m3canvas](Evidencia/Pl-900PowerPlatformFund/m3canvas.PNG)
