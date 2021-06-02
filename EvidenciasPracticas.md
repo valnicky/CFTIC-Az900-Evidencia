@@ -1,26 +1,8 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ###0101
 
 ![0101](Evidencia/0101.PNG)
 
-
-
 ![0108](Evidencia/0108.PNG)
-
-
 
 ###0201
 
@@ -31,8 +13,6 @@
 ###0301
 
 ![0301](Evidencia/0301.PNG)
-
-
 
 ![0302](Evidencia/0302.PNG)
 
@@ -54,8 +34,6 @@
 
 ![0408](Evidencia/0408.PNG)
 
-
-
 ###0501
 
 ![0501](Evidencia/0501.PNG)
@@ -70,8 +48,6 @@
 
 ![0602](Evidencia/0602.PNG)
 
-
-
 ###0701
 
 ![0701](Evidencia/0701.PNG)
@@ -79,8 +55,6 @@
 ![0702](Evidencia/0702.PNG)
 
 ![0703](Evidencia/0703.PNG)
-
-
 
 ###0801
 
@@ -92,23 +66,13 @@
 
 ![0804](Evidencia/0804.PNG)
 
-
-
-
-
 ![0805](Evidencia/0805.PNG)
-
-
-
-
 
 ###0901
 
 ![0901](Evidencia/0901.PNG)
 
 ![0902](Evidencia/0902.PNG)
-
-
 
 ###1001
 
@@ -118,13 +82,7 @@
 
 ![1003](Evidencia/1003.PNG)
 
-
-
 ![1004](Evidencia/1004.PNG)
-
-
-
-
 
 ###1101
 
@@ -134,15 +92,9 @@
 
 ![1103](Evidencia/1103.PNG)
 
-
-
 ![1104](Evidencia/1104.PNG)
 
 ![1105](Evidencia/1105.PNG)
-
-
-
-
 
 ###1201
 
@@ -158,10 +110,6 @@
 
 ![1303](Evidencia/1303.PNG)
 
-
-
-
-
 ###1401
 
 ![1401](Evidencia/1401.PNG)
@@ -169,10 +117,6 @@
 ![1402](Evidencia/1402.PNG)
 
 ![1403](Evidencia/1403.PNG)
-
-
-
-
 
 ###1501
 
@@ -196,15 +140,9 @@
 
 ![1703](Evidencia/1703.PNG)
 
-
-
-
-
 ###1801
 
 ![1801](Evidencia/1801.PNG)
-
-
 
 ###1901
 
@@ -214,10 +152,6 @@
 
 ![1903](Evidencia/1903.PNG)
 
-
-
-
-
 ###2001
 
 ![2001](Evidencia/2001.PNG)
@@ -226,17 +160,9 @@
 
 ![2003](Evidencia/2003.PNG)
 
-
-
-
-
 ###2101
 
 ![2101](Evidencia/2101.PNG)
-
-
-
-
 
 ###2201
 
@@ -244,3 +170,7 @@
 
 ![2202](Evidencia/2202.PNG)
 
+#Pl-900
+
+###How to create a canvas
+![m3-canvas](Evidencia/Pl-900PowerPlatformFund/m3-canvas.png)
