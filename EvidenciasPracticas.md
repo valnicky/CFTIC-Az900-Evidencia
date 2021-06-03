@@ -172,5 +172,44 @@
 
 #Pl-900
 
-###How to create a canvas
-![m3canvas](Evidencia/Pl-900PowerPlatformFund/m3canvas.PNG)
+##Module 0: Course introduction
+![m3canvas](Evidencia/Pl-900PowerPlatformFund/m00Lab00_1.PNG)
+
+![m3canvas](Evidencia/Pl-900PowerPlatformFund/m00Lab00_2.PNG)
+
+##Module 2: Introduction to Microsoft Dataverse
+
+![m3canvas](Evidencia/Pl-900PowerPlatformFund/m02Lab01_1.PNG)
+
+![m3canvas](Evidencia/Pl-900PowerPlatformFund/m02Lab01_2.PNG)
+
+![m3canvas](Evidencia/Pl-900PowerPlatformFund/m02Lab01_3.PNG)
+
+![m3canvas](Evidencia/Pl-900PowerPlatformFund/m02Lab01_4.PNG)
+
+![m3canvas](Evidencia/Pl-900PowerPlatformFund/m02Lab01_5.PNG)
+
+###Module 3: Get started with Power Apps
+![m3canvas](Evidencia/Pl-900PowerPlatformFund/m03Lab01_1.PNG)
+
+![m3canvas2](Evidencia/Pl-900PowerPlatformFund/m03Lab01_1.PNG)
+
+![m3canvas](Evidencia/Pl-900PowerPlatformFund/m03Lab01_2.PNG)
+
+![m3canvas2](Evidencia/Pl-900PowerPlatformFund/m03Lab01_3.PNG)
+
+![m3canvas](Evidencia/Pl-900PowerPlatformFund/m03Lab01_4.PNG)
+
+![m3canvas2](Evidencia/Pl-900PowerPlatformFund/m03Lab01_5.PNG)
+
+![m3canvas](Evidencia/Pl-900PowerPlatformFund/m03Lab01_6.PNG)
+
+![m3canvas2](Evidencia/Pl-900PowerPlatformFund/m03Lab01_7.PNG)
+
+![m3canvas2](Evidencia/Pl-900PowerPlatformFund/m03Lab01_8.PNG)
+
+![m3canvas](Evidencia/Pl-900PowerPlatformFund/m03Lab01_9.PNG)
+
+![m3canvas2](Evidencia/Pl-900PowerPlatformFund/m03Lab01_10.PNG)
+
+##Module 3: Get started with Power Apps PART2
