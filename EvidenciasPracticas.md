@@ -239,7 +239,9 @@
 ![m03Lab02_12](Evidencia/Pl-900PowerPlatformFund/m03Lab02_12.PNG)
 
 ##Module 3: Get started with Power Apps PART3 M03Lab03
+
 ###Lab 3: How to build a model-driven app
+
 ![m03Lab03_1](Evidencia/Pl-900PowerPlatformFund/m03Lab03_1.PNG)
 
 ![m03Lab03_2](Evidencia/Pl-900PowerPlatformFund/m03Lab03_2.PNG)
@@ -259,3 +261,15 @@
 ![m03Lab03_9](Evidencia/Pl-900PowerPlatformFund/m03Lab03_9.PNG)
 
 ##Module 3: Get started with Power Apps PART4 M03Lab04
+
+##Lab 4: How to build a Power Apps portal
+![m03Lab04_1](Evidencia/Pl-900PowerPlatformFund/m03Lab04_1.PNG)
+
+![m03Lab04_2](Evidencia/Pl-900PowerPlatformFund/m03Lab04_2.PNG)
+
+##Module 4: Get Started with Power Automate M04Lab01
+###Lab: How to build an automated solution
+
+![m04Lab01_1](Evidencia/Pl-900PowerPlatformFund/m04Lab01_1.PNG)
+
+![m04Lab01_2](Evidencia/Pl-900PowerPlatformFund/m04Lab01_2.PNG)
