@@ -211,7 +211,7 @@
 
 ![m03Lab01_10](Evidencia/Pl-900PowerPlatformFund/m03Lab01_10.PNG)
 
-##Module 3: Get started with Power Apps PART2
+##Module 3: Get started with Power Apps PART2 M03Lab02
 ###Exercise #1: Create Security Canvas App
 
 ![m03Lab02_1](Evidencia/Pl-900PowerPlatformFund/m03Lab02_1.PNG)
@@ -237,3 +237,25 @@
 ![m03Lab02_11](Evidencia/Pl-900PowerPlatformFund/m03Lab02_11.PNG)
 
 ![m03Lab02_12](Evidencia/Pl-900PowerPlatformFund/m03Lab02_12.PNG)
+
+##Module 3: Get started with Power Apps PART3 M03Lab03
+###Lab 3: How to build a model-driven app
+![m03Lab03_1](Evidencia/Pl-900PowerPlatformFund/m03Lab03_1.PNG)
+
+![m03Lab03_2](Evidencia/Pl-900PowerPlatformFund/m03Lab03_2.PNG)
+
+![m03Lab03_3](Evidencia/Pl-900PowerPlatformFund/m03Lab03_3.PNG)
+
+![m03Lab03_4](Evidencia/Pl-900PowerPlatformFund/m03Lab03_4.PNG)
+
+![m03Lab03_5](Evidencia/Pl-900PowerPlatformFund/m03Lab03_5.PNG)
+
+![m03Lab03_6](Evidencia/Pl-900PowerPlatformFund/m03Lab03_6.PNG)
+
+![m03Lab03_7](Evidencia/Pl-900PowerPlatformFund/m03Lab03_7.PNG)
+
+![m03Lab03_8](Evidencia/Pl-900PowerPlatformFund/m03Lab03_8.PNG)
+
+![m03Lab03_9](Evidencia/Pl-900PowerPlatformFund/m03Lab03_9.PNG)
+
+##Module 3: Get started with Power Apps PART4 M03Lab04
