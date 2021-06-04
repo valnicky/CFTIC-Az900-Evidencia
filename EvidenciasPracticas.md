@@ -172,44 +172,68 @@
 
 #Pl-900
 
-##Module 0: Course introduction
-![m3canvas](Evidencia/Pl-900PowerPlatformFund/m00Lab00_1.PNG)
+##Module 0: Course introduction M00Lab00
+![m00Lab00_1](Evidencia/Pl-900PowerPlatformFund/m00Lab00_1.PNG)
 
-![m3canvas](Evidencia/Pl-900PowerPlatformFund/m00Lab00_2.PNG)
+![m00Lab00_2](Evidencia/Pl-900PowerPlatformFund/m00Lab00_2.PNG)
 
-##Module 2: Introduction to Microsoft Dataverse
+##Module 2: Introduction to Microsoft Dataverse M02Lab01
 
-![m3canvas](Evidencia/Pl-900PowerPlatformFund/m02Lab01_1.PNG)
+![m02Lab01_1](Evidencia/Pl-900PowerPlatformFund/m02Lab01_1.PNG)
 
-![m3canvas](Evidencia/Pl-900PowerPlatformFund/m02Lab01_2.PNG)
+![m02Lab01_2](Evidencia/Pl-900PowerPlatformFund/m02Lab01_2.PNG)
 
-![m3canvas](Evidencia/Pl-900PowerPlatformFund/m02Lab01_3.PNG)
+![m02Lab01_3](Evidencia/Pl-900PowerPlatformFund/m02Lab01_3.PNG)
 
-![m3canvas](Evidencia/Pl-900PowerPlatformFund/m02Lab01_4.PNG)
+![m02Lab01_4](Evidencia/Pl-900PowerPlatformFund/m02Lab01_4.PNG)
 
-![m3canvas](Evidencia/Pl-900PowerPlatformFund/m02Lab01_5.PNG)
+![m02Lab01_5](Evidencia/Pl-900PowerPlatformFund/m02Lab01_5.PNG)
 
-###Module 3: Get started with Power Apps
-![m3canvas](Evidencia/Pl-900PowerPlatformFund/m03Lab01_1.PNG)
+###Module 3: Get started with Power Apps M03Lab01
 
-![m3canvas2](Evidencia/Pl-900PowerPlatformFund/m03Lab01_1.PNG)
+![m03Lab01_1](Evidencia/Pl-900PowerPlatformFund/m03Lab01_1.PNG)
 
-![m3canvas](Evidencia/Pl-900PowerPlatformFund/m03Lab01_2.PNG)
+![m03Lab01_2](Evidencia/Pl-900PowerPlatformFund/m03Lab01_2.PNG)
 
-![m3canvas2](Evidencia/Pl-900PowerPlatformFund/m03Lab01_3.PNG)
+![m03Lab01_3](Evidencia/Pl-900PowerPlatformFund/m03Lab01_3.PNG)
 
-![m3canvas](Evidencia/Pl-900PowerPlatformFund/m03Lab01_4.PNG)
+![m03Lab01_4](Evidencia/Pl-900PowerPlatformFund/m03Lab01_4.PNG)
 
-![m3canvas2](Evidencia/Pl-900PowerPlatformFund/m03Lab01_5.PNG)
+![m03Lab01_5](Evidencia/Pl-900PowerPlatformFund/m03Lab01_5.PNG)
 
-![m3canvas](Evidencia/Pl-900PowerPlatformFund/m03Lab01_6.PNG)
+![m03Lab01_6](Evidencia/Pl-900PowerPlatformFund/m03Lab01_6.PNG)
 
-![m3canvas2](Evidencia/Pl-900PowerPlatformFund/m03Lab01_7.PNG)
+![m03Lab01_7](Evidencia/Pl-900PowerPlatformFund/m03Lab01_7.PNG)
 
-![m3canvas2](Evidencia/Pl-900PowerPlatformFund/m03Lab01_8.PNG)
+![m03Lab01_8](Evidencia/Pl-900PowerPlatformFund/m03Lab01_8.PNG)
 
-![m3canvas](Evidencia/Pl-900PowerPlatformFund/m03Lab01_9.PNG)
+![m03Lab01_9](Evidencia/Pl-900PowerPlatformFund/m03Lab01_9.PNG)
 
-![m3canvas2](Evidencia/Pl-900PowerPlatformFund/m03Lab01_10.PNG)
+![m03Lab01_10](Evidencia/Pl-900PowerPlatformFund/m03Lab01_10.PNG)
 
 ##Module 3: Get started with Power Apps PART2
+###Exercise #1: Create Security Canvas App
+
+![m03Lab02_1](Evidencia/Pl-900PowerPlatformFund/m03Lab02_1.PNG)
+
+![m03Lab02_2](Evidencia/Pl-900PowerPlatformFund/m03Lab02_2.PNG)
+
+![m03Lab02_3](Evidencia/Pl-900PowerPlatformFund/m03Lab02_3.PNG)
+
+![m03Lab02_4](Evidencia/Pl-900PowerPlatformFund/m03Lab02_4.PNG)
+
+![m03Lab02_5](Evidencia/Pl-900PowerPlatformFund/m03Lab02_5.PNG)
+
+![m03Lab02_6](Evidencia/Pl-900PowerPlatformFund/m03Lab02_6.PNG)
+
+![m03Lab02_7](Evidencia/Pl-900PowerPlatformFund/m03Lab02_7.PNG)
+
+![m03Lab02_8](Evidencia/Pl-900PowerPlatformFund/m03Lab02_8.PNG)
+
+![m03Lab02_9](Evidencia/Pl-900PowerPlatformFund/m03Lab02_9.PNG)
+
+![m03Lab02_10](Evidencia/Pl-900PowerPlatformFund/m03Lab02_10.PNG)
+
+![m03Lab02_11](Evidencia/Pl-900PowerPlatformFund/m03Lab02_11.PNG)
+
+![m03Lab02_12](Evidencia/Pl-900PowerPlatformFund/m03Lab02_12.PNG)
